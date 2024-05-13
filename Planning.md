@@ -1,5 +1,5 @@
 # Smart Parking System Project
--
+
 ## Description
 The Smart Parking System project aims to develop a comprehensive solution for efficient management of parking spaces. The system utilizes ultrasonic sensors to detect the availability of parking spaces and provides users with real-time information through a mobile app or web interface. By integrating hardware and software components, the project seeks to optimize parking space utilization, reduce congestion, and enhance the overall parking experience.
 
